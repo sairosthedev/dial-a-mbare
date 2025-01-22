@@ -6,7 +6,7 @@ const liveAnimals = [
     id: 1,
     name: "Free Range Chickens",
     description: "Healthy, locally raised free-range chickens",
-    price: 15.00,
+    price: 10.00,
     unit: "each",
     image: "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&q=80"
   },
@@ -14,7 +14,7 @@ const liveAnimals = [
     id: 2,
     name: "Goats",
     description: "Healthy local goats for farming or meat",
-    price: 150.00,
+    price: 100.00,
     unit: "each",
     image: "https://images.unsplash.com/photo-1524024973431-2ad916746881?w=600&q=80"
   },
@@ -22,7 +22,7 @@ const liveAnimals = [
     id: 3,
     name: "Rabbits",
     description: "Farm-raised rabbits",
-    price: 25.00,
+    price: 15.00,
     unit: "each",
     image: "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&q=80"
   },
@@ -30,9 +30,9 @@ const liveAnimals = [
     id: 4,
     name: "Ducks",
     description: "Fresh farm ducks",
-    price: 20.00,
+    price: 10.00,
     unit: "each",
-    image: "https://images.unsplash.com/photo-1556713304-e5ac0f02e516?w=600&q=80"
+    image: "https://www.warrenphotographic.co.uk/photography/bigs/03747-Domestic-ducks.jpg"
   }
 ];
 
